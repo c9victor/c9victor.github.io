@@ -1,1 +1,1 @@
-# Victor Thompson's Github Portfolio
+# Victor's Github Portfolio
